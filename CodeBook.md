@@ -1,4 +1,4 @@
-The FinalCodes.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
+The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
 Download the dataset
 
@@ -84,9 +84,11 @@ This is created in lieu of submission of assignment for Week 4 by Arshpreet Makk
 
 Dataset: Human Activity Recognition Using Smartphones
 
-Files: CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+Files: 
 
-FinalCodes.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
+CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+
+run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 
 Merges the training and the test sets to create one data set.
 
