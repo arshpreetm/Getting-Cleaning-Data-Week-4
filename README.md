@@ -2,13 +2,14 @@
 This is created in lieu of submission of assignment for Week 4 by Arshpreet Makker.
 
 
-Dataset
+Dataset:
 Human Activity Recognition Using Smartphones
 
-Files
+Files:
 CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
-FinalCodes.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
+FinalCodes.R 
+performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
 Uses descriptive activity names to name the activities in the data set
